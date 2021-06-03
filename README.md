@@ -1,6 +1,5 @@
 # reviews
-All reviews completed by the Best Practicers
+All reviews completed by me using the Best Practices of auditing the smart contracts . 
 
 ### Projects Reviewed
-* 2020.02.08 - 2020.02.22: [swirl-protocol](https://tonic.finance)
-* 2021.02.23 - 2021.03.09: [ethblock.art](https://ethblock.art/)
+* 2021.06.02 -           : [Liquity protocol](https://www.liquity.org/) by Dhruv Malik ( @GrandGarcon) . 
